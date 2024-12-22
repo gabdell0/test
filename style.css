@@ -1,0 +1,13 @@
+BODY { background: #fff1e4; margin: 0; }
+   .layout { width: 970px; margin: 0 auto 10px; background: #fff; }
+   .content { margin-right: 350px; padding: 10px; }
+   .sidebar { width: 320px; float: right; background: #e0ecb8; }
+   .footer {
+    clear: both; /* Отмена обтекания */
+    border-top: 1px solid #ccc; padding: 10px;
+   }
+.lw { font-size: 60px; }
+h1 {color: rgb(82, 149, 16) ;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.footer {font-style: italic;}
+.sidebar {color: rgb(105, 24, 24) ;}
